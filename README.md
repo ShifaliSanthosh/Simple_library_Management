@@ -1,7 +1,5 @@
 Simple Library Management System:
 
-(ZIP file has all the files in order for working)
-
 This is a project implemented on Java on the IntelliJ IDE to replicate a library setup.
 
 Classes & Features:
